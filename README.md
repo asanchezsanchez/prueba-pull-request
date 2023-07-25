@@ -12,4 +12,4 @@ Realiza el pull request (con un mensaje de commit significativo) y espera a que 
 ## Esta es la lista que tienes que modificar
 
 **¿Qué asignatura te gusta más? Y ¿por qué?**
--   [ajss]()
+-   [ajss](https://github.com/asanchezsanchez/prueba-pull-request/blob/main/files/ajss.md)
